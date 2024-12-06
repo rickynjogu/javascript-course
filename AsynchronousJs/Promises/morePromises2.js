@@ -1,10 +1,10 @@
 // Replace these with your actual latitude, longitude, and API key
-const lat = '0.128691'; // Example: Latitude for San Meru
-const lon = '37.719370'; // Example: Longitude for San Meru
-const apiKey = 'e8d9cbd4238adbf9568dc831de45c553'; //  API key
+const lat = ''; // Example: Latitude for 
+const lon = ''; // Example: Longitude for 
+const apiKey = ''; //  API key
 
 // Construct the API URL
-const apiUrl = `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=${apiKey}`;
+const apiUrl = ``;
 
 // Fetch the weather data
 fetch(apiUrl)
