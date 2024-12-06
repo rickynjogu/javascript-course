@@ -1,0 +1,11 @@
+{
+    "name":"John Doe",
+    "age": 20,
+    "email": "js@gmail.com",
+    "isSubscripted": true,
+    "hobbies":["Eat","Code","Sleep","Repeat"],
+    "address":{
+        "city":"Meru",
+        "IDK":true
+    }
+}
